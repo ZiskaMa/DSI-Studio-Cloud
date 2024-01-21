@@ -4,7 +4,7 @@ on:
     inputs:
       id:
         description: 'OpenNeuro Accession Number'
-        default: ds001021
+        default: ds004937
         required: true
       eddy:
         type: boolean
